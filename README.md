@@ -3,7 +3,8 @@
 Molweni: A Challenge Multiparty Dialogue-based Machine Reading Comprehension Dataset with Discourse Structure
 
 
-Please cite the following if you make use of the dataset:
+Please cite the following if you make use of the dataset.
+
 Molweni: A Challenge Multiparty Dialogue-based Machine Reading Comprehension Dataset with Discourse Structure.
 - Authors：Jiaqi Li, Ming Liu, Min-Yen Kan, Zihao Zheng, Zekun Wang, Wenqiang Lei, Ting Liu, Bing Qin
 - COLING 2020, Long Paper
