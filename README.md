@@ -34,6 +34,7 @@ We choose 10,000 dialogues with 88,303 utterances from the Ubuntu dataset , incl
 The average speakers per dialogue in our dataset is 3.52 , the average and max length of dialogues are respectively 8.83 and 14 utterances. The number of answerable questions and unanswerable questions are 27,269 and 5,115. 
 
 | Metric | Number |
+|:-------:|-----------|
 | Avg./Max. of speakers per dialogue | 3.52 / 9 |
 | Avg./Max. question length (in tokens) | 5.86 / 18 |
 | Avg./Max. answer length (in tokens) | 3.82 / 19 |
