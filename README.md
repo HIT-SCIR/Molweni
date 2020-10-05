@@ -58,7 +58,7 @@ The overview of Molweni for MRC:
 
 
 ## Citation
-* [Molweni: A Challenge Multiparty Dialogues-based Machine Reading Comprehension Dataset with Discourse Structure](https://arxiv.org/abs/2004.05080).Jiaqi Li, Ming Liu, Min-Yen Kan, Zihao Zheng, Zekun Wang, Wenqiang Lei, Ting Liu, Bing Qin. Proceedings of the 28th International Conference on Computational Linguistics (COLING  2020)
+* [Molweni: A Challenge Multiparty Dialogues-based Machine Reading Comprehension Dataset with Discourse Structure](https://arxiv.org/abs/2004.05080).Jiaqi Li, Ming Liu, Min-Yen Kan, Zihao Zheng, Zekun Wang, Wenqiang Lei, Ting Liu, Bing Qin. Proceedings of the 28th International Conference on Computational Linguistics (COLING  2020).
 
 
 ## Annotation
