@@ -18,9 +18,9 @@ For machine reading comprehension (MRC) , there are two types of questions in ou
 In particular, most of the questions in our dataset are questions leading by Why, What, Who, Where, When and How. Only a small part of the questions are other questions in our dataset, such as questions leading by Do, Which, and Whose. 
 
 
-* Q1: Why doesLikwidoxigena full restart? 
+* Q1: Why does Likwidoxigena full restart? 
 * A1: it re-loads the modules
-* Q2: What doesnbx909want to do?
+* Q2: What does nbx909 want to do?
 * A2: ﬁnd the address of a usb device 
 * Q3: How to restart network?
 * A3: NA.
