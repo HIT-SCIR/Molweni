@@ -77,53 +77,53 @@ The scond is "dialogues" which is a list of every dialogue's information .
 
 ```json
 {
-	"data": 
-		{"title": "test",
-		"dialogues": [
-			{
+    "data": {
+        "title": "test", 
+        "dialogues": [
+            {
                 "edus": [
-					{
-                        "text": "that i use between linux and windows",
+                    {
+                        "text": "that i use between linux and windows", 
                         "speaker": "JuJuBee_"
-                    },
+                    }, 
                     {
-                        "text": "did you mount it with fstab ? give us a pastebin of the fstab that is probably it eh.EMOJI",
+                        "text": "did you mount it with fstab ? give us a pastebin of the fstab that is probably it eh.EMOJI", 
                         "speaker": "nit-wit"
-                    },
+                    }, 
                     {
-                        "text": "it 's treated as a mount mask",
+                        "text": "it 's treated as a mount mask", 
                         "speaker": "ikonia"
                     }
-				],
-				"context": "jujubee_: that i use between linux and windows nit-wit: did you mount it with fstab ? give us a pastebin of the fstab that is probably it eh.emoji ikonia: it 's treated as a mount mask",
-				"qas": [
-					{
-                        "question": "Where does JuJuBee_ use ?",
-                        "id": "3f45971d1b432a674e1098bb80ebe70c",
+                ], 
+                "context": "jujubee_: that i use between linux and windows nit-wit: did you mount it with fstab ? give us a pastebin of the fstab that is probably it eh.emoji ikonia: it 's treated as a mount mask", 
+                "qas": [
+                    {
+                        "question": "Where does JuJuBee_ use ?", 
+                        "id": "3f45971d1b432a674e1098bb80ebe70c", 
                         "answers": [
                             {
-                                "text": "between linux and windows",
+                                "text": "between linux and windows", 
                                 "answer_start": 21
                             }
-                        ],
+                        ], 
                         "is_impossible": false
                     }
-				],
-				"relations": [
-					{
-                        "y": 1,
-                        "x": 0,
-                        "type": "Clarification_question"
-                    },
+                ], 
+                "relations": [
                     {
-                        "y": 2,
-                        "x": 0,
+                        "y": 1, 
+                        "x": 0, 
+                        "type": "Clarification_question"
+                    }, 
+                    {
+                        "y": 2, 
+                        "x": 0, 
                         "type": "Comment"
                     }
-				]
-			}
-		]
-	}
+                ]
+            }
+        ]
+    }
 }
 ```
 The information of the keys in the "dialogues" field are as follows.
