@@ -39,7 +39,7 @@ The average speakers per dialogue in our dataset is 3.52 , the average and max l
 | Avg./Max. question length (in tokens) | 5.91 / 19 |
 | Avg./Max. answer length (in tokens) | 4.08 / 19 |
 | Avg./Max. dialogue length (in tokens)  | 104.4 / 208 |
-| Avg./Max. dialogue length (in utterances) | *** / 14 |
+| Avg./Max. dialogue length (in utterances) | 8.82 / 14 |
 | Avg./Max. utterance length (in tokens) | 10.8 / 19 |
 | Vocabulary size | 24,615 |
 | Answerable questions | 25,779 |
