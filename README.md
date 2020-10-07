@@ -2,7 +2,7 @@
 
 We present the Molweni dataset, a machine reading comprehension (MRC) dataset built over multiparty dialogues.
 Molweni also uniquely contributes discourse dependency annotations for its multiparty dialogues.
-The following shows a multiparty dialogue with four speakers and seven utterances. Due to the property of dialogues, the instances in our corpus could have grammar mistakes. 
+The following shows a multiparty dialogue with four speakers and seven utterances. Due to the property of dialogues, the dialogue instances in our corpus could have grammar mistakes. There are two versions of the Molweni dataset that can be respectively used for machine reading comprehension (MRC) and discourse parsing (DP). Both two versions of Molweni come from the same 10K dialogue, but the data partition is different.
 
 | Speaker | Utterance |
 |:-------:|-----------|
