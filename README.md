@@ -35,27 +35,36 @@ The average speakers per dialogue in our dataset is 3.52 , the average and max l
 
 | Metric | Number |
 |:-------:|-----------|
-| Avg./Max. of speakers per dialogue | 3.52 / 9 |
-| Avg./Max. question length (in tokens) | 5.86 / 18 |
-| Avg./Max. answer length (in tokens) | 3.82 / 19 |
-| Avg./Max. dialogue length (in tokens)  | 85 / 169 |
-| Avg./Max. dialogue length (in utterances) | 8.83 / 14 |
+| Avg./Max. of speakers per dialogue | 3.51 / 9 |
+| Avg./Max. question length (in tokens) | 5.91 / 19 |
+| Avg./Max. answer length (in tokens) | 4.08 / 19 |
+| Avg./Max. dialogue length (in tokens)  | 104.4 / 208 |
+| Avg./Max. dialogue length (in utterances) | 10.8 / 19 |
 | Questions per dialogue in Train/Dev | 3 |
 | Questions per dialogue in Test | 30 |
-| Vocabulary size | 17,924 |
-| Answerable questions | 26,376 |
-| Unanswerable questions | 4,386 |
+| Vocabulary size | 24,615 |
+| Answerable questions | 25,779 |
+| Unanswerable questions | 4,287 |
 * Latest release: [v1.0](https://github.com/HIT-SCIR/Molweni)
 
 ## Statistics
 
-The overview of Molweni for MRC:
+The overview of Molweni for MRC(withDiscourse):
 
-| Dataset | Dialogues | Questions |Utterances|
+| Dataset | Dialogues | Utterances | Questions |
 | :-----: | --------: | --------: | ------: |
-|   TRAIN   |     9,000 |    27,000 |  79,487 |
-|   DEV   |       900 |     2,700 |   7,971 |
-|   TEST   |       100 |     3,000 |     845 |
+|   TRAIN   |     8,771 | 77,374 |  24,682 |
+|   DEV   |       883 |     7,823 |   2,513 |
+|   TEST   |       100 |     845 |     2,817 |
+
+
+The overview of Molweni for Discourse parsing:
+
+| Dataset | Dialogues | Utterances | Relations |
+| :-----: | --------: | --------: | ------: |
+|   TRAIN   |   9,000 | 79,487 |  70,454 |
+|   DEV   |     500 |     4,386 |  3,880 |
+|   TEST   |    500 |     4,430 |  3,911 |
 
 
 ## Citation
