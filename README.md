@@ -134,3 +134,7 @@ The "relations" field is a list of relations between two utterances,and classify
 ## Contact
 
 * [Ming Liu](http://homepage.hit.edu.cn/liuming1981).
+
+## Acknowledgments
+
+Thanks to Prof. [Min-Yen Kan](https://www.comp.nus.edu.sg/~kanmy/index.html) and Dr. Wenqiang Lei of National University of Singapore. Thanks to Zihao Zheng, Zekun Wang, Yibo Sun, Tiantian Jiang, Daxing Zhang, Rongtian Bian, Heng Zhang, Hu Zhenyu and other students of Harbin Institute of technology for their support in the process of data set annotation. Thanks to Wenpeng Hu, a Ph.D. student of Peking University, for providing preprocessed Ubuntu data.
