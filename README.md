@@ -54,7 +54,7 @@ The overview of Molweni for MRC(withDiscourse):
 | :-----: | --------: | --------: | ------: |
 |   TRAIN   |     8,771 | 77,374 |  24,682 |
 |   DEV   |       883 |     7,823 |   2,513 |
-|   TEST   |       100 |     845 |     2,817 |
+|   TEST   |       100 |     845 |     2,871 |
 
 
 The overview of Molweni for Discourse parsing:
