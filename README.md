@@ -30,7 +30,7 @@ In particular, most of the questions in our dataset are questions leading by Why
 ## Dataset
 
 Our dataset derives from the large scale multiparty dialogues dataset the Ubuntu Chat Corpus (Lowe et al., 2015). The Ubuntu dataset is a large scale multiparty dialogues corpus. We adopt the dialogues with 8-15 utterances and 2-9 speakers. To simplify the task, we ﬁlter the dialogues with long sentences (more than 20 words).
-We choose 10,000 dialogues with 88,303 utterances from the Ubuntu dataset , including 78,246 discourse relations and 30,046 questions for machine reading comprehension. 
+We choose 10,000 dialogues with 88,303 utterances from the Ubuntu dataset , including 78,245 discourse relations and 30,046 questions for machine reading comprehension. 
 The average speakers per dialogue in our dataset is 3.52 , the average and max length of dialogues are respectively 8.83 and 14 utterances. The number of answerable questions and unanswerable questions are 25,759 and 4,287. 
 
 | Metric | Number |
