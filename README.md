@@ -156,4 +156,4 @@ The "relations" field is a list of relations between two utterances,and classify
 
 ## Acknowledgments
 
-Thanks to Prof. [Min-Yen Kan](https://www.comp.nus.edu.sg/~kanmy/index.html) and Dr. Wenqiang Lei of National University of Singapore. Thanks to Zihao Zheng, Zekun Wang, Yibo Sun, Tiantian Jiang, Daxing Zhang, Rongtian Bian, Heng Zhang, Zhenyu Hu and other students of Harbin Institute of Technology for their support in the process of data set annotation. Thanks to Wenpeng Hu, a Ph.D. student of Peking University, for providing preprocessed Ubuntu data.
+Thanks to Prof. [Min-Yen Kan](https://www.comp.nus.edu.sg/~kanmy/index.html) and Dr. Wenqiang Lei of National University of Singapore. Thanks to Zihao Zheng, Zekun Wang, Yibo Sun, Tianwen Jiang, Daxing Zhang, Rongtian Bian, Heng Zhang, Zhenyu Hu and other students of Harbin Institute of Technology for their support in the process of data set annotation. Thanks to Wenpeng Hu, a Ph.D. student of Peking University, for providing preprocessed Ubuntu data.
